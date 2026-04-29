@@ -1,0 +1,16 @@
+media = function(x,y){
+z = (x + y ) / 2
+z
+}
+deviazione = function(x){
+z = (x - mean(x)) / (length(x) - 1)
+z
+}
+
+
+
+
+
+
+
+
